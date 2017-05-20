@@ -1,0 +1,7 @@
+{
+  "name": "Odden Creative",
+  "short_name": "Odden Creative",
+  "description": "PWA for Odden ",
+  "start_url": "/",
+  "display": "standalone"
+}
